@@ -1,0 +1,10 @@
+<fomod>
+    <Name>Corpse Cannon Power</Name>
+    <Author>Mark E. Kraus</Author>
+    <Version>1.0.0</Version>
+    <Website>{NEWURL}</Website>
+    <Description>Adds a power to summons a coffin once a day that shoots fresh corpses from the targeted targeted area.</Description>
+    <Groups>
+        <element>Spells</element>
+    </Groups>
+</fomod>
