@@ -89,7 +89,7 @@ The level of corpse ammo scales with your player level.
 
 ## Troubleshooting Crashes
 
-Hours of testing have proven that the corpse cannon can cause Crash-to-Desktops (CTDs). This is because actions are being performed on the NPC too quickly. Depending on a bunch of factors including your hardware, where you are at in the game, how many NPCs are loaded, etc, you may experience a CTD when using the corpse cannon.
+Hours of testing have proven that the Corpse Cannon can cause Crash-to-Desktops (CTDs). This is because actions are being performed on the NPC too quickly. Depending on a bunch of factors including your hardware, where you are at in the game, how many NPCs are loaded, etc, you may experience a CTD when using the Corpse Cannon.
 
 To fix this, you can use the MCM to adjust the amount of force applied, and the delays between actions. Increasing the delays is the best way to prevent CTDs. Decreasing the force may also help, but the delays seem to be more reliable.
 
@@ -100,7 +100,7 @@ To fix this, you can use the MCM to adjust the amount of force applied, and the 
 * Save your game
 * Test Corpse Cannon to see if CTDs continue
 
-The downside to increasing the delays is that the corpse cannon will fire slower. If you are brave and using really good hardware, you can try decreasing these and see if your game crashes.
+The downside to increasing the delays is that the Corpse Cannon will fire slower. If you are brave and using really good hardware, you can try decreasing these and see if your game crashes.
 
 ## Installation
 
@@ -114,7 +114,7 @@ Download and install with Vortex and the FOMOD installer will take care of the r
 
 ### Manual
 
-* Extract the 7z file using 7-Zip.
+* Extract the Zip file.
 * Copy the extracted `MarkekrausCorpseCannon.esp` and `MarkekrausCorpseCannon.bsa` files to the `data` folder under your Skyrim: Special Edition installation folder.
 * Enable the plugin using whatever method you usually use.
 
