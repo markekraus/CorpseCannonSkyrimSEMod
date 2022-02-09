@@ -2,7 +2,7 @@
   "$schema": "http://mekschemas.netlify.app/modpackager/v2/",
   "UnfuzerPath": "..\\..\\Game Root\\Tools\\unfuzer",
   "ModInfo": {
-    "Name": "Corpse Cannon Power",
+    "Name": "Corpse Cannon",
     "Version": "1.0.0",
     "Author": "Mark E. Kraus",
     "Description": "Adds a power to summons a coffin once a day that shoots fresh corpses from the targeted targeted area.",
