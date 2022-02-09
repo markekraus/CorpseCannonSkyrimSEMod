@@ -36,7 +36,7 @@
         <Include NoRecurse="false">*.psc</Include>
         <Include NoRecurse="true">fomod\info.xml</Include>
         <Include NoRecurse="true">fomod\ModuleConfig.xml</Include>
-        <!-- <Include NoRecurse="true">logo.png</Include> -->
+        <Include NoRecurse="true">logo.png</Include>
         <Include NoRecurse="true">README.md</Include>
         <Include NoRecurse="true">LICENSE</Include>
     </ZipFile>
