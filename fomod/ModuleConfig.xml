@@ -35,6 +35,7 @@
                             <files>
                                 <file source="Source\Scripts\MEKCCPCorpseCannonScript.psc" destination="Source\Scripts\MEKCCPCorpseCannonScript.psc" priority="0" />
                                 <file source="Source\Scripts\MEKCCPMenuConfig.psc" destination="Source\Scripts\MEKCCPMenuConfig.psc" priority="0" />
+                                <file source="Source\Scripts\MEKCCPModInitialization.psc" destination="Source\Scripts\MEKCCPModInitialization.psc" priority="0" />
                             </files>
                             <typeDescriptor> 
                                 <type name="Optional"/> 

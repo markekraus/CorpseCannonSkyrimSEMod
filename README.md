@@ -19,7 +19,7 @@ My mods:
 
 ## About Corpse Cannon
 
-Adds a power that summons a coffin once a day to shoot 1 to 25 fresh corpses from the targeted area. The number of corpses is based on your Conjuration skill and can be configured in the Mod Configuration Menu.
+Adds a power that summons a coffin once a day to shoot 1 to 25 fresh corpses from the targeted area. The number of corpses is based on your Conjuration skill and can be configured in the Mod Configuration Menu (MCM).
 
 Why would someone need a Corpse Cannon? I don't know. It's not my place to judge or ask questions.
 
@@ -33,7 +33,7 @@ The Corpses will not harm yourself or other NPCs if you or they are in the line 
 
 ### Corpse Ammo Count
 
-The amount of corpse ammo scales with your Conjuration skill. The maximum amount of corpse ammo can be set in the Mod Configuration Menu (MCM). Consider toggling this down if you suffer performance issues with the default setting.
+The amount of corpse ammo scales with your Conjuration skill. The maximum amount of corpse ammo can be set in the MCM. Consider toggling this down if you suffer performance issues with the default setting.
 
 Max 1: Only 1 corpse will be spawned regardless of skill level.
 
@@ -83,24 +83,31 @@ Max 25 (Default):
 
 ### Types of Corpse Ammo
 
-The types of corpses ammo shot are random but can be bandits, warlocks, Forsworn, Guards, Imperial soldiers, Stormcloak soldiers, Thalmor, and vampires.
+The MCM for this mod allows you to select two types of Corpse Ammo:
 
-The level of corpse ammo scales with your player level.
+* Random NPCs - default
+* Nazeem
+
+The types of Random NPC Corpse Ammo shot are can be bandits, warlocks, Forsworn, Guards, Imperial soldiers, Stormcloak soldiers, Thalmor, and vampires. The level of corpse ammo scales with your player level.
+
+If you choose Nazeem Corpse Ammo, all Corpse Ammo will be the infamous Nazeem from Whiterun. The actual Nazeem will not be affected by this.
+
+"Do you get launched from the cloud district very often? Oh, what am I saying? Of course you don't." -Nazeem
 
 ## Troubleshooting Crashes
 
-Hours of testing have proven that the Corpse Cannon can cause Crash-to-Desktops (CTDs). This is because actions are being performed on the NPC too quickly. Depending on a bunch of factors including your hardware, where you are at in the game, how many NPCs are loaded, etc, you may experience a CTD when using the Corpse Cannon.
+If you are on version 1.0.0, please update to the latest version.
 
-To fix this, you can use the MCM to adjust the amount of force applied, and the delays between actions. Increasing the delays is the best way to prevent CTDs. Decreasing the force may also help, but the delays seem to be more reliable.
+If you are on a version 1.1.0 or newer, CTDs should be very rare. However, if you do experience them, try increasing the "Corpse Fire Delay" or decreasing the "Cannon Force".
 
 * Open the MCM for Copse Cannon in your Mod Settings
 * Optional - Decrease "Cannon Force"
-* Increase "Corpse Fire Delay" and/or "Corpse Kill Delay"
+* Increase "Corpse Fire Delay"
 * Accept the changes
 * Save your game
 * Test Corpse Cannon to see if CTDs continue
 
-The downside to increasing the delays is that the Corpse Cannon will fire slower. If you are brave and using really good hardware, you can try decreasing these and see if your game crashes.
+The downside to increasing the delays is that the Corpse Cannon will fire slower.
 
 ## Installation
 
@@ -126,7 +133,7 @@ This mod can be installed in any order.
 
 Enter the Whiterun Hall of the Dead Catacombs and read the "Spell Tome: Corpse Cannon" book. Equip the power in your Magick menu. Aim at the location you wish to have corpses fired from. Activate the power. Wait 1 in-game day to use the power again.
 
-You can change the maximum amount of corpse ammo and scaling with Conjuration in the Mod Configuration menu.
+You can change the maximum amount of corpse ammo and scaling with Conjuration in the MCM. You can also change the type of Corpse Ammo, cannon force, and delay in the MCM.
 
 ## Compatibility
 
