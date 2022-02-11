@@ -11,7 +11,7 @@ My mods:
 * [Chairrows - Chair Arrows](https://www.nexusmods.com/skyrimspecialedition/mods/61168)
 * [Cheat Jewelry](https://www.nexusmods.com/skyrimspecialedition/mods/58973)
 * [Cheat Powers](https://www.nexusmods.com/skyrimspecialedition/mods/58892)
-* [Corpse Cannon]({NEWURL})
+* [Corpse Cannon](https://www.nexusmods.com/skyrimspecialedition/mods/63387)
 * [Exit Combat Power](https://www.nexusmods.com/skyrimspecialedition/mods/58651)
 * [Greatchairs - Chair Greatswords](https://www.nexusmods.com/skyrimspecialedition/mods/62526)
 * [Sentient Chairs of Skyrim (SCOS)](https://www.nexusmods.com/skyrimspecialedition/mods/59604)
@@ -94,7 +94,7 @@ Hours of testing have proven that the Corpse Cannon can cause Crash-to-Desktops 
 To fix this, you can use the MCM to adjust the amount of force applied, and the delays between actions. Increasing the delays is the best way to prevent CTDs. Decreasing the force may also help, but the delays seem to be more reliable.
 
 * Open the MCM for Copse Cannon in your Mod Settings
-* (optional) Decrease "Cannon Force"
+* Optional - Decrease "Cannon Force"
 * Increase "Corpse Fire Delay" and/or "Corpse Kill Delay"
 * Accept the changes
 * Save your game

@@ -7,7 +7,7 @@
                 <group name="Main" type="SelectExactlyOne"> 
                     <plugins order="Explicit">
                         <plugin name="MarkekrausCorpseCannon.esp">
-                            <description>Adds a power to summons a coffin once a day that shoots fresh corpses from the targeted targeted area.</description>
+                            <description>Adds a power to summons a coffin once a day that shoots fresh corpses from the targeted area.</description>
                             <image path="logo.png" />
                             <files>
                                 <file source="MarkekrausCorpseCannon.esp" destination="MarkekrausCorpseCannon.esp" priority="0" />
